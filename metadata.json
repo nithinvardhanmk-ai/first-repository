@@ -1,0 +1,6 @@
+{
+  "name": "PaperForge CS Research Agent",
+  "description": "Token-efficient Computer Science research paper parser that extracts core concepts, generates Mermaid.js architectural flowcharts, and identifies concrete 3rd-year CS student resume and internship extension projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
